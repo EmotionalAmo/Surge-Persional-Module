@@ -142,7 +142,8 @@ tb.cn = server:https://dns.alidns.com/dns-query // 淘宝短网址
 *.alipay-eco.com = server:https://dns.alidns.com/dns-query // 支付宝 开放技术生态体系
 
 # > 钉钉
-*.dingtalkapps.com = server:https://dns.alidns.com/dns-query // 钉钉
+*.dingtalk.com = server:https://dns.alidns.com/dns-query // 钉钉
+*.dingtalkapps.com = server:https://dns.alidns.com/dns-query // 钉钉APP
 
 # > 腾讯
 *.tencent.com = server:https://doh.pub/dns-query // 腾讯
